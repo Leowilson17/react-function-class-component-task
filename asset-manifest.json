@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-function-class-component-task/static/css/main.4610c17e.css",
+    "main.js": "/react-function-class-component-task/static/js/main.baa2b481.js",
+    "static/js/787.e8cc5339.chunk.js": "/react-function-class-component-task/static/js/787.e8cc5339.chunk.js",
+    "static/media/hero-bg.jpg": "/react-function-class-component-task/static/media/hero-bg.81d903e58564b0471746.jpg",
+    "index.html": "/react-function-class-component-task/index.html",
+    "main.4610c17e.css.map": "/react-function-class-component-task/static/css/main.4610c17e.css.map",
+    "main.baa2b481.js.map": "/react-function-class-component-task/static/js/main.baa2b481.js.map",
+    "787.e8cc5339.chunk.js.map": "/react-function-class-component-task/static/js/787.e8cc5339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4610c17e.css",
+    "static/js/main.baa2b481.js"
+  ]
+}
