@@ -1,6 +1,10 @@
 import React from 'react';
+import img1 from "../../assets/images/client-1.png";
+import img2 from "../../assets/images/client-7.png";
+import img3 from "../../assets/images/client-8.png";
 
-function Slider() {
+function Slider(props) {
+  // console.log(props.obj.name);
     return (
         <div>
             <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="true">
@@ -11,13 +15,13 @@ function Slider() {
   </div>
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src =''  className="d-block w-100" alt="..."/>
+      <img src ={img1}  className="d-block w-100"  alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="..." className="d-block w-100" alt="..."/>
+      <img src={img2} className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="..." className="d-block w-100" alt="..."/>
+      <img src={img3} className="d-block w-100" alt="..."/>
     </div>
   </div>
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

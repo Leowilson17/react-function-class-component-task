@@ -1,7 +1,8 @@
 import React from "react";
 import "./home.css";
 
-const Home = () => {
+const Home = (props) => {
+  // console.log(props.name);
   return (
     <div className="home-page">
       <div className="black">
@@ -10,13 +11,15 @@ const Home = () => {
           <p className="para-2">
             We are team of talented designers making websites with Bootstrap
           </p>
+          <div className = 'btn-align'>
           <button type="button" className="btn-1">
-            get started
+            {props.name}
           </button>
+          </div>
         </div>
       </div>
     </div>
+
   );
 };
-
 export default Home;

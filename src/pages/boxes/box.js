@@ -21,4 +21,4 @@ export class Box extends Component {
         )
     }
 }
-export default Box
+export default Box;
