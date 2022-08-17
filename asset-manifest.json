@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/react-function-class-component-task/static/css/main.4610c17e.css",
-    "main.js": "/react-function-class-component-task/static/js/main.baa2b481.js",
+    "main.css": "/react-function-class-component-task/static/css/main.09505b5a.css",
+    "main.js": "/react-function-class-component-task/static/js/main.cbb2d55b.js",
     "static/js/787.e8cc5339.chunk.js": "/react-function-class-component-task/static/js/787.e8cc5339.chunk.js",
+    "static/media/img-1.jpg": "/react-function-class-component-task/static/media/img-1.15996ccf32bbbc15c62b.jpg",
     "static/media/hero-bg.jpg": "/react-function-class-component-task/static/media/hero-bg.81d903e58564b0471746.jpg",
+    "static/media/img-3.jpg": "/react-function-class-component-task/static/media/img-3.509fa25e62a304ed7581.jpg",
+    "static/media/img-6.jpg": "/react-function-class-component-task/static/media/img-6.376adcc2a6c94326f9d1.jpg",
+    "static/media/img-2.jpg": "/react-function-class-component-task/static/media/img-2.10331ccbdc01bc38becb.jpg",
+    "static/media/img-5.jpg": "/react-function-class-component-task/static/media/img-5.0688d1f1655db8036cdb.jpg",
     "index.html": "/react-function-class-component-task/index.html",
-    "main.4610c17e.css.map": "/react-function-class-component-task/static/css/main.4610c17e.css.map",
-    "main.baa2b481.js.map": "/react-function-class-component-task/static/js/main.baa2b481.js.map",
+    "main.09505b5a.css.map": "/react-function-class-component-task/static/css/main.09505b5a.css.map",
+    "main.cbb2d55b.js.map": "/react-function-class-component-task/static/js/main.cbb2d55b.js.map",
     "787.e8cc5339.chunk.js.map": "/react-function-class-component-task/static/js/787.e8cc5339.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4610c17e.css",
-    "static/js/main.baa2b481.js"
+    "static/css/main.09505b5a.css",
+    "static/js/main.cbb2d55b.js"
   ]
 }
