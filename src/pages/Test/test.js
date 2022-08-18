@@ -1,4 +1,5 @@
 import React from "react";
+import "./test.css"
 import photo_1 from "../../assets/images/img-1.jpg";
 import photo_2 from "../../assets/images/img-2.jpg";
 import photo_3 from "../../assets/images/img-3.jpg";
@@ -39,7 +40,6 @@ var data = [
       "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed."
   }
 ];
-
 const Test = () => {
   return (
     <div className="flex">
@@ -49,7 +49,6 @@ const Test = () => {
     </div>
   );
 };
-
 export default Test;
 
 
